@@ -1,3 +1,7 @@
-Hi Gabriel Morelli here, and I am passionate about programming, currently I know about JavaScript, PHP and C#, at the moment I am learning about functional languages like F# and elixir.
+# Hi i'am Gabriel Morelli 
+<div>
+  <a href="https://github.com/ronanzindev">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ronanzindev&show_icons=true&theme=&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronanzindev&layout=compact&langs_count=7&theme=cobalt"/>
+</div>
 
-I've already used nestjs to make a task API, .DOTNET Core to make backend services with angular in frondend and PHOENIX (elixir) to build a simple database API
