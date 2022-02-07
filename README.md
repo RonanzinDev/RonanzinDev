@@ -1,6 +1,6 @@
 # Hi i'am Gabriel Morelli 
 
-I'm a web development student, at the moment I work with typescript, C# and golang, and study ruby on rails .
+I'm a web development student, at the moment I work with typescript, C#/F# and golang.
 
 <div>
   <a href="https://github.com/ronanzindev">
