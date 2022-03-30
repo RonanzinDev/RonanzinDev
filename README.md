@@ -14,7 +14,6 @@ I'm a web development student, at the moment I work with typescript, C#/F# and g
   <img align="center" alt="Ronan-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Ronan-Fsharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fsharp/fsharp-original.svg">
   <img align="center" alt="Ronan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
-  <img align="center" alt="Ronan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/crystal/crystal-original.svg">
   <img align="center" alt="Ronan-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elixir/elixir-original.svg">
 </div>
   
